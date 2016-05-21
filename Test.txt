@@ -3,3 +3,8 @@
 .wrapper.style1 {
 			background-color: #2B6330;
 		}
+
+
+.wrapper.style1 {
+			background-color: #2B6999;
+		}
